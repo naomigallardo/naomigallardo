@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naomigallardo
-- 👀 I’m interested in learning front end development and UX!
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in learning Python and full stack development!
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
