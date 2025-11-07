@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naomigallardo
-- 👀 I’m interested in learning full stack development!
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m pursuing a career in Cybersecurity
+- 🌱 I’m currently Linux, Networking, Python, and deep-diving into the world of historical malware
 
 
 <!---
